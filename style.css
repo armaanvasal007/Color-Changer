@@ -1,0 +1,26 @@
+.canvas{
+    text-align: center;
+    margin: 100px auto 100px;
+}
+span{
+    display: block;
+}
+.button{
+    height: 100px;
+    width: 100px;
+    display: inline-block;
+    border: 20px black solid ;
+    margin: 5px;
+}
+#red{
+    background-color: red;
+}
+#blue{
+    background-color: blue;
+}
+#yellow{
+    background-color: yellow;
+}
+#purple{
+    background-color: purple;
+}
